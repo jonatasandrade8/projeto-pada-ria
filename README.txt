@@ -1,52 +1,40 @@
-# Padaria Doce Pão
+📄 Padaria Doce Pão – Website
+Este projeto é um site institucional da Padaria Doce Pão, destacando seus produtos, história, diferenciais e horário de funcionamento.
+Foi desenvolvido utilizando HTML5 e CSS3, seguindo boas práticas de semântica e organização de código.
 
-**Tradição e sabor em cada fornada!**  
-Site institucional da Padaria Doce Pão, trazendo informações sobre a história, produtos, diferenciais, localização e horários de funcionamento.
+📋 Funcionalidades
+Página inicial com apresentação da padaria
 
----
+Galeria de imagens dos produtos e ambiente
 
-## Descrição
-A **Padaria Doce Pão** nasceu em 1995 com a missão de oferecer pães fresquinhos todos os dias para a comunidade. O site foi desenvolvido para apresentar:
-- Nossa história e tradição
-- Lista de produtos
-- Diferenciais de qualidade
-- Localização e horários de funcionamento
+Seção Sobre Nós com a história da empresa
 
----
+Vídeo institucional integrado do YouTube
 
+Cardápio completo com categorias, descrição e preços
 
-## Tecnologias Utilizadas
-- **HTML5** para estrutura
-- **CSS3** *(opcional, para estilização futura)*
-- **JavaScript** *(opcional, para interatividade futura)*
+Lista de diferenciais da padaria
 
----
+Tabela de horários de funcionamento
 
+🛠️ Estrutura do Projeto
+/
+├── index.html        # Página principal
+├── css/
+│   └── style.css     # Estilos do site
+├── images/           # Imagens usadas na galeria
+│   ├── baguete.jpg
+│   ├── baguete2.jpg
+│   ├── bolo.jpg
+│   ├── folhado.jpg
+│   └── mesa.jpg
+└── README.md         # Documentação do projeto
+🎨 Tecnologias Utilizadas
+HTML5 para estrutura semântica
 
-## Funcionalidades
-- Apresentação da história da padaria
-- Lista de produtos com ícones
-- Diferenciais competitivos
-- Endereço e horários de funcionamento
+CSS3 para estilização e layout responsivo
 
----
+YouTube Embed para o vídeo institucional
 
-
-## Localização
-**Rua dos Sabores, 123 - Centro, São Paulo - SP**
-
----
-
-
-## Horários de Funcionamento
-- **Segunda a Sexta:** 06h às 19h  
-- **Sábado:** 06h às 18h  
-- **Domingo:** 07h às 12h  
-
----
-
-
-## Licença
-© 2025 Padaria Doce Pão. Todos os direitos reservados.
-"""
-
+📄 Licença
+Este projeto é de uso livre para fins educacionais.
